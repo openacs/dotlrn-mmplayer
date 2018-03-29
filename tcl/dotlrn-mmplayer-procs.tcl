@@ -80,7 +80,7 @@ namespace eval dotlrn_mmplayer {
     } {
         remove the applet from the community
     } {
-        ad_return_complaint 1 "[applet_key] remove_applet_from_community not implimented!"
+        ad_return_complaint 1 "[applet_key] remove_applet_from_community not implemented!"
     }
 
     ad_proc -public add_user {
